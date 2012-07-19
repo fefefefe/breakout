@@ -1,1 +1,6 @@
 Breakout
+
+issue #1: paddle doesn't follow the mouse. Only click and drag workaround, yet.
+
+Started out by following this:
+http://see.stanford.edu/materials/icspmcs106a/19-assignment-3-breakout.pdf
